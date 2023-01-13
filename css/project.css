@@ -1,0 +1,14 @@
+form{
+    background-color: rgb(48, 47, 47);
+    padding: 15px;
+    border-radius: 15px;
+}
+input,textarea,button{
+    margin: 10px 0;
+}
+.center-align{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
